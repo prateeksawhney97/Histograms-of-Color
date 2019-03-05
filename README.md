@@ -7,6 +7,6 @@
 
 ![cutout1](https://user-images.githubusercontent.com/34116562/53822643-2b8fcf00-3f96-11e9-8538-bc8c8ad2bdca.jpg)
 
-### Output RGB histogram:
+### Output RGB histograms:
 
 ![output](https://user-images.githubusercontent.com/34116562/53822640-29c60b80-3f96-11e9-84ea-f32d4a404b24.png)
